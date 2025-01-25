@@ -6,3 +6,7 @@
     background-color: theme('colors.background');
     color: theme('colors.text');
   } */
+
+article {
+	max-width: 250px;
+}
