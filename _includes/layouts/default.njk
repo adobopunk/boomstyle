@@ -21,7 +21,7 @@
 			<div
 				class="flex-auto max-w-2xl min-w-0 px-4 py-10 lg:max-w-none lg:pr-0 lg:pl-8 xl:px-16"
 			>
-				<article class="">
+				<article class="max-w-lg">
 					<header class="">
 						<p class="text-base font-medium text-slate-500">
 							{{ section }}
@@ -42,19 +42,15 @@
 					<p class="text-base font-medium text-slate-500">
 						<i>File Location: {{ location }}</i>
 					</p>
-					{% endif %} {% if "font1" %}
+					{% endif %} {% if font1 %}
 					<p class="mt-2 text-base text-slate-600">
 						Primary Font: {{ font1 }}
 					</p>
-					{% endif %} 
-					
-					{% if "font2" %}
+					{% endif %} {% if font2 %}
 					<p class="mt-2 text-base text-slate-600">
-						Other Fonts: {{ fonts2 }}
+						Accent Fonts: {{ font2 }}
 					</p>
-					{% endif %}
-					
-					{% if show_video_tour %} {% include
+					{% endif %} {% if show_video_tour %} {% include
 					"video_tour.njk" %} {% endif %} {% if show_quick_links
 					%} {% include "quick_links.njk" %} {% endif %}
 
