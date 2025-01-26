@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-GB">
 	<head>
-		<title>Proving Grounds: Social Media</title>
+		<title>Overview - Broadcast Assets</title>
 		<meta charset="UTF-8" />
 		<meta
 			name="viewport"
@@ -112,6 +112,24 @@
 						</a>
 					</li>
 					
+					<li>
+						<a
+							href="/docs/overview-broadcast/"
+							class="text-slate-900 hover:text-slate-800"
+						>
+							Overview - Broadcast Assets
+						</a>
+					</li>
+					
+					<li>
+						<a
+							href="/docs/overview-social/"
+							class="text-slate-900 hover:text-slate-800"
+						>
+							Overview - Social Assets
+						</a>
+					</li>
+					
 				</ul>
 			</li>
 			
@@ -125,7 +143,7 @@
 					
 					<li>
 						<a
-							href="/docs/proving-grounds-overview/"
+							href="/docs/Proving Grounds/proving-grounds-overview/"
 							class="text-slate-900 hover:text-slate-800"
 						>
 							Proving Grounds: Overview
@@ -134,19 +152,39 @@
 					
 					<li>
 						<a
-							href="/docs/proving-grounds-socials/"
+							href="/docs/Proving Grounds/proving-grounds-broadcast/"
+							class="text-slate-900 hover:text-slate-800"
+						>
+							Proving Grounds: Broadcast
+						</a>
+					</li>
+					
+					<li>
+						<a
+							href="/docs/Proving Grounds/proving-grounds-socials/"
 							class="text-slate-900 hover:text-slate-800"
 						>
 							Proving Grounds: Social Media
 						</a>
 					</li>
 					
+				</ul>
+			</li>
+			
+
+			<li>
+				<h3 class="font-semibold tracking-tight text-slate-900">
+					Evergreen Brand Assets
+				</h3>
+
+				<ul role="list" class="pl-3 mt-3 space-y-2">
+					
 					<li>
 						<a
-							href="/docs/proving-grounds-broadcast/"
+							href="/docs/Highlight Reel Assets/highlight-reel-assets/"
 							class="text-slate-900 hover:text-slate-800"
 						>
-							Proving Grounds: Broadcast
+							Highlight Reel Assets
 						</a>
 					</li>
 					
@@ -164,22 +202,50 @@
 				<article class="max-w-lg">
 					<header class="">
 						<p class="text-base font-medium text-slate-500">
-							Proving Grounds
+							Getting Started
 						</p>
 
 						<h1
 							class="text-3xl font-bold tracking-tight text-slate-900"
 						>
-							Proving Grounds: Social Media
+							Overview - Broadcast Assets
 						</h1>
 					</header>
 
+					
+					<p class="mt-2 text-xl text-slate-600">
+						Commonly used broadcast media asset and guidelines
+					</p>
 					     
 
 					<div
 						class="mt-8 prose prose-slate max-w-none prose-headings:font-semibold prose-headings:tracking-tight prose-lead:text-slate-500 prose-a:font-semibold prose-a:underline prose-pre:bg-slate-900"
 					>
-						<p>Content here</p>
+						<h2>Background loop</h2>
+<p>A background loop is a seamless animation designed to enhance the visual quality of broadcasts and social assets when displayed behind other graphics. These loops can play indefinitely on a broadcast, as the ending frame seamlessly connects to the starting frame, creating the illusion of an infinite video.</p>
+<p>Each background loop is custom-designed for a specific event, complementing its unique style. A well-crafted background loop can serve as a key element in defining the overall visual identity of the broadcast.</p>
+<figure>
+    <video autoplay loop muted playsinline>
+        <source src="/src/assets/img/getting started/backgroundLoopExample.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video><figcaption>Background loop designed for the Code Freedom: Nightlife event.</figcaption>
+</figure>
+<h2>Frame Rate</h2>
+<p>The frame rate refers to the number of frames displayed per second in a video asset. For most video assets, we use a frame rate of 29.97 fps (frames per second) or 30 fps, meaning each second consists of approximately 30 individual images. This frame rate is the standard for smooth playback in digital video. For simplicity, this guide treats 29.97 fps and 30 fps as equivalent.</p>
+<p>An exception to this standard is animated video announcements, which are occasionally rendered at 24 fps. This lower frame rate aligns with the traditional &quot;cinematic&quot; frame rate used in films, providing a stylistic aesthetic that mimics the feel of motion pictures.</p>
+<h2>Stinger</h2>
+<p>Stingers are transitional video elements designed to create a seamless bridge between scenes during live broadcasts or video editing. Unlike most video assets, which are commonly delivered as .mp4 files, stingers require a format that supports transparency, or the alpha channel. The alpha channel specifies which parts of the video should be transparent, allowing for smooth scene transitions. To capture this transparency, stingers are rendered as .mov files, which are larger than .mp4 files due to the additional data they contain.</p>
+<p>It’s important to note that .mov files, including stingers, are not optimized for direct upload to social media. Their primary use is in live broadcast environments or within video editing software, where they serve as transition elements between clips.</p>
+<h4>Technical Specifications</h4>
+<p>A standard BoomTV stinger is 2 seconds long with a frame rate of 29.97 frames per second. However, shorter 1-second stingers are sometimes used, and more complex stingers may extend beyond 2 seconds. Regardless of the duration, the key feature of any stinger is the transitional point exactly halfway through the animation. This the moment when the animation fully covers the screen, allowing for a clean scene cut.</p>
+<p>For example: A 2-second stinger at 29.97fps will have its transitional point at 1 second (30 frames out of 60). At this point, the animation should completely obscure the underlying scene, making it safe to switch to the next scene while the animation completes.</p>
+<p>When delivering broadcast assets, it’s essential to document the stinger’s length and frame rate for the broadcast lead to ensure proper integration into the production workflow.</p>
+<figure>
+    <video autoplay loop muted playsinline>
+        <source src="/src/assets/img/getting started/stingerExample.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video><figcaption>Example of a broadcast stinger transitioning from the caster scene to the leaderboard scene.</figcaption>
+</figure>
 
 					</div>
 
@@ -194,7 +260,7 @@
 				</article>
 
 				         
-      
+            
 <dl class="flex pt-6 mt-6 border-t border-slate-200">
 	
 	<div class="mr-auto text-left">
@@ -204,7 +270,7 @@
 
 		<dd class="mt-1">
 			<a
-				href="/docs/proving-grounds-overview/"
+				href="/docs/Proving Grounds/proving-grounds-overview/"
 				class="text-base font-semibold text-slate-900 hover:underline"
 			>
 				Proving Grounds: Overview
@@ -219,10 +285,10 @@
 
 		<dd class="mt-1">
 			<a
-				href="/docs/proving-grounds-broadcast/"
+				href="/docs/overview-social/"
 				class="text-base font-semibold text-slate-900 hover:underline"
 			>
-				Proving Grounds: Broadcast
+				Overview - Social Assets
 			</a>
 		</dd>
 	</div>
