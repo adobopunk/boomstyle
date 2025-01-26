@@ -6,7 +6,7 @@ location: Boom/2025/Proving Grounds/
 font1: Akira Expanded
 ---
 
-In January 2025, we redesigned Proving Grounds with a new set of visuals, animations, and templates. This new direction retains the core style of the PG brand, while adapting a modern tech aesthetic with layers of grunge, 3D glass, and a preference for featuring posed game characters.
+In January 2025, we redesigned Proving Grounds with a new set of visuals, animations, and templates. This new direction retains the core style of the PG brand, while adapting a modern tech aesthetic with layers of grunge, 3D glass, and have been designed with featuring posed 3D game characters in mind.
 
 <figure><img src="/src/assets/img/PG2025/example.png" alt="">
 <figcaption>Early PG2025 Concept</figcaption></figure>
