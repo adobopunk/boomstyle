@@ -5,16 +5,21 @@ section: Getting Started
 order: 2
 ---
 
+## Announcement Graphic
+
+Announcement graphics are static or animated assets created to announce and promote upcoming events on social media. They are typically the first asset posted in an event’s marketing schedule, unless an announcement trailer is produced, in which case a separate graphic is unnecessary.
+
+As of 2025, BoomTV's announcement graphics prioritize vertically oriented designs to maximize visibility and impact on social media timelines.
+
 ## Announcement Trailer
 
-Announcement trailers are unique, animated and edited video assets, designed to promote upcoming events across social media channels. Each trailer is custom-made for each event, meaning there’s no standardized production pipeline. Instead, the scope, style, and length are tailored to the specific event, with an intention to always deliver the highest possible quality video. The only limitations are deadlines and the overall workload of the creative team.
+Announcement trailers are animated and edited video assets created to announce and promote upcoming events on social media. As the first asset in an event’s marketing schedule, they set the tone for the campaign.
 
-When requesting announcement trailers, please provide as much detail as possible about the event and any specific client requests, including mandatory information to be included in the video. Details for an announcement trailer request may include:
+Each trailer is uniquely crafted for its event, with the animation’s scope, style, copy, and duration tailored to factors such as client requirements, production timelines, and the creative team’s workload.
 
--    Desired video aspect ratio (if applicable)
--    Event date and time
--    Call-to-action (CTA) details, such as website links or stream locations
--    Prize pool, if you’d like it featured in the trailer
+#### Technical Specifications
+
+Announcement trailers are typically created as 1080p full HD videos, rendered at 24 or 29.97 fps.
 
 <figure>
     <video controls playsinline>

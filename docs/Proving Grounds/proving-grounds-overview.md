@@ -6,16 +6,15 @@ location: Boom/2025/Proving Grounds/
 font1: Akira Expanded
 ---
 
-In January 2025, we redesigned Proving Grounds with a new set of visuals, animations, and templates. This new direction retains the core style of the PG brand, while adapting a modern tech aesthetic with layers of grunge, 3D glass, and have been designed with featuring posed 3D game characters in mind.
+In January 2025, we redesigned Proving Grounds with a fresh set of visuals, animations, and templates. This new direction preserves the core identity of the PG brand while incorporating a modern tech aesthetic. The updated design features layered grunge textures alongside 3D glass elements. It is optimized to showcase posed 3D game characters.
 
 <figure><img src="/src/assets/img/PG2025/example.png" alt="">
 <figcaption>Early PG2025 Concept</figcaption></figure>
 
 ## Motion System
 
-The modular design of this package allows for the seamless integration of social graphics and broadcast screens with a new set of animated background loops. These loops feature the PG logo tiled over a CRT-inspired digital texture. Being able to integrate these animations whenever possible is a key feature of this PG brand package, which prefers animated assets over static.
+The modular design of this package enables seamless integration of social graphics and broadcast screens with a new set of animated background loops, featuring the PG logo tiled over a digital texture of signal interference. A key aspect of this PG brand package is its emphasis on animated assets over static ones.
 
-<blockquote>While we've optimized the process to make integrating the motion loop as smooth as possible, it still adds time to the production cycle. To ensure a smooth workflow, it's important to clearly specify which social assets should include animation when making requests. Please provide as much lead time as possible when submitting requests for animated assets to ensure timely delivery.</blockquote>
 <figure>
     <video autoplay loop muted playsinline>
         <source src="/src/assets/img/PG2025/ApexExample.mp4" type="video/mp4">
