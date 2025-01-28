@@ -35,7 +35,7 @@ The animated Proving Grounds bug helps add brand presence to any PG broadcast, a
 **Recommended Placement:**
 Position as necessary on an appropriate screen edge center or corner. Adjust placement to avoid HUD elements.
 
-If desired, animate the bug to slide into position from off screen when
+If desired, animate the bug to slide into position from off screen when switching to gameplay.
 
 <video autoplay loop muted playsinline>
   <source src="/src/assets/img/PG2025/PG_2025_Overlay_web.mp4" type="video/mp4">
@@ -76,7 +76,7 @@ Highlights the unique PG Graffiti variant logo with dripping paint and the sound
 
 Designed to display two visuals side-by-side. Applications include showing casters side-by-side, or showing dueling gameplay POVs.
 
-Use {{ font1 }} to add labels within the black boxes below the frames.
+Use {{ font1 }} to add labels inside the black boxes below the frames.
 
 <img src="/src/assets/img/PG2025/duo-screen-example.jpg" alt="">
 

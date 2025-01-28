@@ -21,7 +21,7 @@ A video file format supporting higher-quality video with additional features lik
 
 An advanced still image format that can preserve transparency in an image. Broadcast assets are exported as .png files, so they can be easily placed over a background asset.
 
-Aspect Ratio
+## Aspect Ratio
 
 The proportional relationship between the width and height of a video or image. Common aspect ratios include 16:9 (widescreen) and 4:3 (standard for older televisions). Most BoomTV assets are designed in a 16:9 aspect ratio, which is the standard for modern broadcasts.
 
@@ -55,6 +55,6 @@ The amount of space between an element and the edges of the container it resides
 
 <img src="https://images.ctfassets.net/pdf29us7flmy/6FMwLUnze6f6SQjjxpB5lq/4da8905078cce5668a00b488f913340d/-IND-004-082-_When_and_How_To_Use_Margin_vs._Padding_in_CSS_-_Final.png?w=1440&q=100&fm=avif" alt="">
 
-Scene
+## Scene
 
 A layout in broadcast software (e.g., OBS, vMix) that contains multiple assets like video, graphics, and animations. Scenes are used to transition between different parts of the broadcast, such as gameplay, interviews, and intermission screens.
