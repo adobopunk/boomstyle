@@ -1,7 +1,7 @@
 ---
 title: 'Proving Grounds: Overview'
 section: Proving Grounds
-order: 2
+order: 4
 location: Boom/2025/Proving Grounds/
 font1: Akira Expanded
 ---
@@ -17,7 +17,45 @@ The modular design of this package enables seamless integration of social graphi
 
 <figure>
     <video autoplay loop muted playsinline>
-        <source src="/src/assets/img/PG2025/ApexExample.mp4" type="video/mp4">
+        <source src="/src/assets/img/PG2025/PG_WatchParty_01-30-2025_Announcement.mp4" type="video/mp4">
         Your browser does not support the video tag.
-      </video><figcaption>Animated Announcement Post Concept</figcaption>
+      </video><figcaption>Animated Announcement Post</figcaption>
 </figure>
+
+## Animated Background loop
+
+The background loop for Proving Grounds assets is **PG_2025_Background_HD.**
+
+Two alternate loops exist for convenience, intended only to be used if elements of the primary background loop clash with the asset. However, the main loop containing all elements of the style should be used whenever possible.
+
+<figure>
+  <video autoplay loop muted playsinline>
+    <source src="/src/assets/img/PG2025/PG_2025_Broadcast_BG_web.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video><figcaption>Primary Background Loop</figcaption>
+</figure>
+
+<figure>
+  <video autoplay loop muted playsinline>
+      <source src="/src/assets/img/PG2025/PG2025_BG_Web.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video><figcaption>Alternate Background Loop 1</figcaption>
+</figure>
+
+<figure>
+  <video autoplay loop muted playsinline>
+      <source src="/src/assets/img/PG2025/PG_2025_BG_clean_web.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video><figcaption>Alternate Background Loop 2</figcaption>
+
+</figure>
+
+**Still to add: Square Loop**
+
+## Social Assets
+
+Social assets should be posted as animated videos whenever possible, to maximize visibility.
+
+Announcement posts should be presented as square videos using the square PG animate background.
+
+All other social posts using PG assets should be presented in 1920 x 1080 and use the **PG_2025_Background_HD** loop.

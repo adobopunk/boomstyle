@@ -9,7 +9,17 @@ order: 2
 
 Announcement graphics are static or animated assets created to announce and promote upcoming events on social media. They are typically the first asset posted in an event’s marketing schedule, unless an announcement trailer is produced, in which case a separate graphic is unnecessary.
 
-As of 2025, BoomTV's announcement graphics prioritize vertically oriented designs to maximize visibility and impact on social media timelines.
+As of 2025, BoomTV's announcement graphics prefer animated square 1:1 designs to maximize visibility and impact on social media timelines. This can be accomplished by layering a background loop with an announcement graphic and rendering as an .mp4 without audio.
+
+<figure>
+    <video autoplay loop muted playsinline>
+        <source src="/src/assets/img/getting started/Announcement_Example.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <figcaption>Example of a square format animated announcement graphic.</figcaption>
+  </figure>
+
+For announcement graphics designed to be static images, a 4:5 vertical aspect ratio is preferred for social timelines. A 1:1 square image is also fine.
 
 ## Announcement Trailer
 
