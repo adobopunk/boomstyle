@@ -54,7 +54,7 @@ BoomTV intermission screens combine a background loop with a static graphic, des
     </video><figcaption>Example of an intermission screen asset for Proving Grounds events. Space has been left near the screen center (between the two triangles) for a countdown timer, and the black bar directly above the game logos is the designated location for an intermission message.</figcaption>
 </figure>
 
-Screen
+## Screen
 
 A general term referring to any visual display used during broadcasts, including gameplay feeds, intermission screens, and overlays. BoomTV uses "screen" to describe specific assets, such as intermission screens (used between matches to show event information) or standby screens (used to indicate pauses in the broadcast).
 
