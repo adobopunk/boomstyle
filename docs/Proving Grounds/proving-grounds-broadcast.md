@@ -38,7 +38,7 @@ Position as necessary on an appropriate screen edge center or corner. Adjust pla
 If desired, animate the bug to slide into position from off screen when switching to gameplay.
 
 <video autoplay loop muted playsinline>
-  <source src="/src/assets/img/PG2025/PG_2025_Overlay_web.mp4" type="video/mp4">
+  <source src="/src/assets/img/PG2025/PG_2025_BUG_h264_crf23.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -77,14 +77,17 @@ Highlights the unique PG Graffiti variant logo with dripping paint and the sound
 Designed to display two visuals side-by-side. Applications include showing casters side-by-side, or showing dueling gameplay POVs.
 
 Use {{ font1 }} to add labels inside the black boxes below the frames.
+<img src="/src/assets/img/PG2025/duo_screen.png" alt="">
 
-<img src="/src/assets/img/PG2025/duo-screen-example.jpg" alt="">
+<figure><img src="/src/assets/img/PG2025/duo-screen-example.jpg" alt=""><figcaption>Example of Duo Screen placed over background.</figcaption></figure>
 
 ### Info Screen
 
 Designed to display miscellaneous information. Use a combination of {{ font1 }} for headlines and {{ font2 }} for paragraph text.
+<img src="/src/assets/img/PG2025/info_scsreen.png" alt="">
 
-<img src="/src/assets/img/PG2025/innfo-screen-exaple.jpg" alt="">
+<figure><img src="/src/assets/img/PG2025/innfo-screen-exaple.jpg" alt="">
+<figcaption>Example of Info Screen over background.</figcaption></figure>
 
 ### Intermission Screen
 

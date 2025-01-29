@@ -24,9 +24,11 @@ The modular design of this package enables seamless integration of social graphi
 
 ## Animated Background loop
 
-The background loop for Proving Grounds assets is **PG_2025_Background_HD.**
+The background loops for Proving Grounds assets are **PG_2025_Background_HD** and **PG_2025_Background_Square.**
 
-Two alternate loops exist for convenience, intended only to be used if elements of the primary background loop clash with the asset. However, the main loop containing all elements of the style should be used whenever possible.
+Two alternate loops of each aspect ratio. exist for convenience, intended only to be used if elements of the primary background loop clash with the asset. However, the main loop containing all elements of the style should be used whenever possible.
+
+### HD Loop
 
 <figure>
   <video autoplay loop muted playsinline>
@@ -50,12 +52,30 @@ Two alternate loops exist for convenience, intended only to be used if elements 
 
 </figure>
 
-**Still to add: Square Loop**
+### Square Loop
+
+<figure>
+  <video autoplay loop muted playsinline>
+    <source src="/src/assets/img/PG2025/PG_2025_BG_Square_h264_crf23.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video><figcaption>Primary Background Loop</figcaption>
+</figure>
+
+<figure>
+  <video autoplay loop muted playsinline>
+      <source src="/src/assets/img/PG2025/PG_2025_BG_ALT-A_Square_h264_crf23.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video><figcaption>Alternate Background Loop 1</figcaption>
+</figure>
+
+<figure>
+  <video autoplay loop muted playsinline>
+      <source src="/src/assets/img/PG2025/PG_2025_BG_ALT-B_Square_h264_crf23.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video><figcaption>Alternate Background Loop 2</figcaption>
+
+</figure>
 
 ## Social Assets
 
-Social assets should be posted as animated videos whenever possible, to maximize visibility.
-
-Announcement posts should be presented as square videos using the square PG animate background.
-
-All other social posts using PG assets should be presented in 1920 x 1080 and use the **PG_2025_Background_HD** loop.
+Social assets should be posted as animated videos whenever possible, to maximize visibility. Acceptable dimensions for animated assets are 16:9 (1080p) and 1:1 (Square). This ensures assets present correctly without any black bars on desktop and mobile twitter timelines.
