@@ -6,6 +6,7 @@ module.exports = function (eleventyConfig) {
 
 	// Pass through all assets in ./src/assets, including subfolders
 	eleventyConfig.addPassthroughCopy('./src/assets');
+	eleventyConfig.addPassthroughCopy('robots.txt');
 
 	eleventyConfig.addShortcode('version', function () {
 		return now;
