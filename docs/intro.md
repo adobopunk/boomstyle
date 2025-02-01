@@ -8,7 +8,7 @@ order: 1
 permalink: /
 ---
 
-Welcome to the BoomTV Style Guide, your go-to resource for properly utilizing assets created by the creative team, Mateo and TJ. We’ll keep this guide as accurate and up-to-date as possible to ensure seamless production workflows.
+Welcome to the BoomTV Style Guide, your go-to resource for properly utilizing assets created by the creative team, which is Mateo and TJ. We’ll keep this guide as accurate and up-to-date as possible to ensure seamless production workflows.
 
 This guide serves as a centralized reference for BoomTV team members and external contractors, such as broadcast leads and operators. Here, you’ll find detailed instructions on how to use assets in each package to assemble cohesive, on-brand scenes for broadcasts.
 

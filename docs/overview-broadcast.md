@@ -49,14 +49,16 @@ BoomTV intermission screens combine a background loop with a static graphic, des
 
 <figure>
   <video autoplay loop muted playsinline>
-      <source src="/src/assets/img/PG2025/PG_2025_Intermission_web.mp4" type="video/mp4">
+      <source src="/src/assets/img/getting started/startingSoon.mp4" type="video/mp4">
       Your browser does not support the video tag.
-    </video><figcaption>Example of an intermission screen asset for Proving Grounds events. Space has been left near the screen center (between the two triangles) for a countdown timer, and the black bar directly above the game logos is the designated location for an intermission message.</figcaption>
+    </video><figcaption>Example of an intermission screen with a clock, counting down to the start of the broadcast.</figcaption>
 </figure>
 
 ## Screen
 
 A general term referring to any visual display used during broadcasts, including gameplay feeds, intermission screens, and overlays. BoomTV uses "screen" to describe specific assets, such as intermission screens (used between matches to show event information) or standby screens (used to indicate pauses in the broadcast).
+
+<figure><img src="/src/assets/img/getting started/bracket.webp" alt=""><figcaption>A bracket screen for a Proving Grounds event.</figcaption></figure>
 
 ## Stinger
 

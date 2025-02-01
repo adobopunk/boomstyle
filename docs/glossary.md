@@ -31,13 +31,13 @@ Short for Frames Per Second, referring to Frame Rate.
 
 ## Frame Rate
 
-Frame rate refers to the number of frames (individual images) displayed per second (fps) in a video asset. For most video assets, we use the standard broadcast frame rate of 29.97 fps (frames per second), meaning each second consists of approximately 30 individual images. This frame rate is the standard for smooth playback in digital video.
+Frame rate refers to the number of frames (individual images) displayed per second (fps) in a video asset. For most video assets, we use the standard broadcast frame rate of 29.97 fps (frames per second) or 30 fps. This frame rate is the standard for smooth playback in digital video.
 
 <blockquote>
   For simplicity, this guide treats 29.97 fps and 30 fps as equivalent, as the difference was due to technical limitations of the past and is irrelevant in the modern era. <a href="https://www.diyphotography.net/camera-shoots-29-97fps-not-30fps-doesnt-really-matter/" target="_blank">(Why?)</a>
 </blockquote>
 
-An exception to this standard is animated video announcements, which are occasionally rendered at 24 fps. This lower frame rate aligns with the traditional "cinematic" frame rate used in films, providing a stylistic aesthetic that mimics the feel of motion pictures.
+An exception to this standard is animated video announcements, which are often rendered at 24 fps. This lower frame rate aligns with the traditional "cinematic" frame rate used in films, providing a stylistic aesthetic that mimics the feel of motion pictures.
 
 ## HD
 

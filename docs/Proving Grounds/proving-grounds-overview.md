@@ -24,6 +24,8 @@ The modular design of this package enables seamless integration of social graphi
 
 ## Animated Background loop
 
+<blockquote>Location: Boom/2025/Proving Grounds/Socials/</blockquote>
+
 The background loops for Proving Grounds assets are **PG_2025_Background_HD** and **PG_2025_Background_Square.**
 
 Two alternate loops of each aspect ratio. exist for convenience, intended only to be used if elements of the primary background loop clash with the asset. However, the main loop containing all elements of the style should be used whenever possible.
@@ -76,6 +78,6 @@ Two alternate loops of each aspect ratio. exist for convenience, intended only t
 
 </figure>
 
-## Social Assets
+## Social Media
 
 Social assets should be posted as animated videos whenever possible, to maximize visibility. Acceptable dimensions for animated assets are 16:9 (1080p) and 1:1 (Square). This ensures assets present correctly without any black bars on desktop and mobile twitter timelines.
