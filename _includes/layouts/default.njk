@@ -38,6 +38,10 @@
 					<p class="mt-2 text-xl text-slate-600">
 						{{ intro }}
 					</p>
+					{% endif %} {% if eventdate %}
+					<p class="text-base font-medium text-slate-500">
+						Date: {{ eventdate }}
+					</p>
 					{% endif %} {% if location %}
 					<p class="text-base font-medium text-slate-500">
 						<i>File Location: {{ location }}</i>
