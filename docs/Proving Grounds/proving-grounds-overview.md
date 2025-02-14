@@ -1,5 +1,5 @@
 ---
-title: 'Proving Grounds: Overview'
+title: '2025 Branding Overview'
 section: Proving Grounds
 order: 4
 location: Boom/2025/Proving Grounds/

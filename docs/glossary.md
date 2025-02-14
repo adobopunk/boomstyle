@@ -1,5 +1,5 @@
 ---
-title: 'Technical Glossary'
+title: 'Technical Terms'
 intro: 'This is a reference page explaining commonly used terms throughout this guide, for those unfamiliar with any of the terms used, or simply seeking clarity on how we use these terms at BoomTV.'
 section: Getting Started
 order: 3

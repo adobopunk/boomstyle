@@ -1,11 +1,13 @@
 ---
-title: 'Proving Grounds: Broadcast'
+title: 'Broadcast Assets'
 section: Proving Grounds
 order: 5
 location: Boom/2025/Proving Grounds/Broadcast/Exports/
 font1: Akira Expanded
 font2: Futara PT Book
 ---
+
+<blockquote>Do <b>not</b> develop new Proving Grounds broadcast screens using these assets in unapproved ways, always use the proper channels to request new layouts when needed.</blockquote>
 
 ## Fonts
 
@@ -59,7 +61,7 @@ Highlights the unique PG Graffiti variant logo with dripping paint and the sound
 
 <figure>
   <video controls playsinline>
-      <source src="/src/assets/img/PG2025/PG2025_Sting_Example.mp4" type="video/mp4">
+      <source src="/src/assets/img/PG2025/PG Stinger Example_h264_crf23.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
 </figure>
@@ -77,14 +79,12 @@ Highlights the unique PG Graffiti variant logo with dripping paint and the sound
 Designed to display two visuals side-by-side. Applications include showing casters side-by-side, or showing dueling gameplay POVs.
 
 Use {{ font1 }} to add labels inside the black boxes below the frames.
-<img src="/src/assets/img/PG2025/duo_screen.png" alt="">
 
 <figure><img src="/src/assets/img/PG2025/duo-screen-example.jpg" alt=""><figcaption>Example of Duo Screen placed over background.</figcaption></figure>
 
 ### Info Screen
 
 Designed to display miscellaneous information. Use a combination of {{ font1 }} for headlines and {{ font2 }} for paragraph text.
-<img src="/src/assets/img/PG2025/info_scsreen.png" alt="">
 
 <figure><img src="/src/assets/img/PG2025/innfo-screen-exaple.jpg" alt="">
 <figcaption>Example of Info Screen over background.</figcaption></figure>
