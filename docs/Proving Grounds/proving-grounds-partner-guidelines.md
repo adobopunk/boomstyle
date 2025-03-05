@@ -18,10 +18,10 @@ Use the "O" in the Proving Grounds logo as a guide for the minimum amount of spa
 
 ## Partner Lockup
 
-When designing a partner lockup that uses a "Your Brand x Proving Grounds" graphic, ensure both logos are of equal size, and use the spacing guidelines to ensure the x or other graphic elements do not intrude on the minimum space required around the logo.
+When designing a partner lockup that uses a "Your Brand x Proving Grounds" graphic, ensure both logos are of equal size and use spacing guidelines to ensure the x or other graphic elements do not intrude on the minimum space required around the logo.
 
 <figure><img src="/src/assets/img/PG2025/partner-assets/examples/PG_example_good.jpg" alt="">
-<figcaption>Example of appropriate use of the PG logo - Space around the logo, readable on background, unmodified.</figcaption></figure>
+<figcaption>Example of appropriate use of the PG logo: Space around the logo, readable on background, unmodified.</figcaption></figure>
 
 We provide a Photoshop file to use as a template at the link below.
 
@@ -48,7 +48,7 @@ Do not modify or create new versions of the Proving Grounds logo. This includes 
 
 Following the above style guide, use of the Proving Grounds logo should be no problem for most third-party events.
 
-It's recommended to let the BoomTV team review your third party Proving Grounds assets before publishing them. Connect with Mateo [@matooty], graphic designer, or TJ [@adobo], animation director, via Discord with your assets, and we'll get back to you as soon as possible.
+It's recommended to let the BoomTV team review your third-party Proving Grounds assets before publishing them. Connect with Mateo [@matooty], graphic designer, or TJ [@adobo], animation director, via Discord with your assets, and we'll get back to you as soon as possible.
 
 ## Available Assets
 
